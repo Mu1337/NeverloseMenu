@@ -1,0 +1,13 @@
+﻿{
+    "popupVisibleAt1500":  true,
+    "selectionChanged":  true,
+    "pageStayedRage":  true,
+    "processResponsive":  true,
+    "popupHashes":  {
+                        "baseline":  "3045de0010c004befa3ef965bb74c429fbfe24240902f41709a6a43134d1c5a1",
+                        "open150":  "7ba708b6d3554a8e0d92620236e97a59b85d3fa01cbb290d1e2692d502145335",
+                        "open1500":  "1efb56ed7fbf1ccfa112a9b33eaa044d1777e17e2b3ee3bb9ce6051fe552b83a",
+                        "toggled":  "7ca4927c98b22b6c6c2700d128afe5247a7957d24e765c65ac8ad0e0074354a2"
+                    },
+    "pass":  true
+}

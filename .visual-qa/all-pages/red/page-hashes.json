@@ -1,0 +1,14 @@
+﻿{
+    "phase":  "red",
+    "processResponsive":  true,
+    "distinctContentHashes":  1,
+    "expectedDistinct":  1,
+    "hashes":  {
+                   "rage":  "e8583b67ccd5a48c2ec66da5f329b626eda71ce54ed1fe2e5c8e19866f30795a",
+                   "legit":  "e8583b67ccd5a48c2ec66da5f329b626eda71ce54ed1fe2e5c8e19866f30795a",
+                   "players":  "e8583b67ccd5a48c2ec66da5f329b626eda71ce54ed1fe2e5c8e19866f30795a",
+                   "inventory":  "e8583b67ccd5a48c2ec66da5f329b626eda71ce54ed1fe2e5c8e19866f30795a",
+                   "miscellaneous":  "e8583b67ccd5a48c2ec66da5f329b626eda71ce54ed1fe2e5c8e19866f30795a",
+                   "world":  "e8583b67ccd5a48c2ec66da5f329b626eda71ce54ed1fe2e5c8e19866f30795a"
+               }
+}

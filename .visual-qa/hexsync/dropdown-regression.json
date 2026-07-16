@@ -1,0 +1,19 @@
+{
+  "scenario": "Refine Shot dropdown remains open after the invoking mouse release",
+  "captures": {
+    "opened_150ms": "C:\\Users\\XPTNo\\Desktop\\Code\\neverlose-last\\.visual-qa\\hexsync\\dropdown-persistent-0150ms.png",
+    "opened_1500ms": "C:\\Users\\XPTNo\\Desktop\\Code\\neverlose-last\\.visual-qa\\hexsync\\dropdown-persistent-1500ms.png",
+    "settled_menu": "C:\\Users\\XPTNo\\Desktop\\Code\\neverlose-last\\.visual-qa\\hexsync\\10-escape-menu-settled.png"
+  },
+  "popup_box": {
+    "x": 309,
+    "y": 199,
+    "width": 126,
+    "height": 104
+  },
+  "different_pixels_vs_closed_menu": 13068,
+  "total_popup_pixels": 13104,
+  "selected_check_bright_pixels": 13,
+  "persistent_at_1500ms": true,
+  "selected_check_visible": true
+}

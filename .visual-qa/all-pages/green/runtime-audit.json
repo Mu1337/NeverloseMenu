@@ -1,0 +1,23 @@
+﻿{
+    "Executable":  "C:\\Users\\XPTNo\\Desktop\\Code\\neverlose-last\\examples\\example_win32_directx11\\Release\\neverlose_dx11.exe",
+    "ExecutableNewerThanSource":  true,
+    "LogoAssetHashesMatch":  true,
+    "IntroVsSettledBackgroundRegion":  {
+                                           "DifferentPixels":  0,
+                                           "TotalPixels":  10000
+                                       },
+    "ReplaySkipCycles":  30,
+    "Before":  {
+                   "Handles":  655,
+                   "PrivateBytes":  277520384,
+                   "Responding":  true
+               },
+    "After":  {
+                  "Handles":  656,
+                  "PrivateBytes":  277946368,
+                  "Responding":  true,
+                  "Exited":  false
+              },
+    "HandleDelta":  1,
+    "PrivateBytesDelta":  425984
+}

@@ -1,0 +1,102 @@
+{
+  "toggle-transition": {
+    "from": "11-toggle-hover.png",
+    "to": "12-toggle-transition.png",
+    "changedPixels": 658,
+    "bbox": [
+      403,
+      91,
+      436,
+      113
+    ]
+  },
+  "toggle-settle": {
+    "from": "12-toggle-transition.png",
+    "to": "13-toggle-settled.png",
+    "changedPixels": 634,
+    "bbox": [
+      403,
+      91,
+      436,
+      113
+    ]
+  },
+  "slider-chase": {
+    "from": "14-slider-chasing.png",
+    "to": "15-slider-settled.png",
+    "changedPixels": 735,
+    "bbox": [
+      309,
+      279,
+      423,
+      298
+    ]
+  },
+  "popover-close": {
+    "from": "16-popover-closing.png",
+    "to": "17-popover-closed.png",
+    "changedPixels": 90219,
+    "bbox": [
+      7,
+      280,
+      418,
+      748
+    ]
+  },
+  "popover-open": {
+    "from": "17-popover-closed.png",
+    "to": "18-popover-opening.png",
+    "changedPixels": 90077,
+    "bbox": [
+      7,
+      350,
+      366,
+      748
+    ]
+  },
+  "navigation-hover-to-select": {
+    "from": "20-navigation-hover.png",
+    "to": "21-navigation-transition.png",
+    "changedPixels": 8352,
+    "bbox": [
+      7,
+      84,
+      147,
+      220
+    ]
+  },
+  "navigation-settle": {
+    "from": "21-navigation-transition.png",
+    "to": "22-navigation-selected.png",
+    "changedPixels": 8352,
+    "bbox": [
+      7,
+      84,
+      147,
+      220
+    ]
+  },
+  "select-hover": {
+    "from": "22-navigation-selected.png",
+    "to": "23-select-hover.png",
+    "changedPixels": 3481,
+    "bbox": [
+      7,
+      92,
+      435,
+      262
+    ]
+  },
+  "toolbar-hover": {
+    "from": "23-select-hover.png",
+    "to": "24-toolbar-hover.png",
+    "changedPixels": 2873,
+    "bbox": [
+      309,
+      239,
+      435,
+      262
+    ]
+  },
+  "executableSha256": "49C36F0A9331C391BA8AB22859CEEE41D41B769AE0A0A6EE044D03C8DF5FEEEA"
+}

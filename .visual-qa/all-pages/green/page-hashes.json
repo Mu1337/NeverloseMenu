@@ -1,0 +1,14 @@
+﻿{
+    "phase":  "green",
+    "processResponsive":  true,
+    "distinctContentHashes":  6,
+    "expectedDistinct":  6,
+    "hashes":  {
+                   "rage":  "a3766ae12fcb040cc426f8c1b2dc4c3c8f2698706fc0dab23af69c8f9261d99e",
+                   "legit":  "759f098b152619f0cd926fc49eaecbf4cbdc8c5eecd12df0acaa617923c9e78a",
+                   "players":  "3569eea91f8bd09d9cc0c313fbd35a363a5c430741d15dac55ff6fb2864ba505",
+                   "world":  "579936603aa814b6149fffe97dca2e27cdd0c14bae560d34845917f8edf7cb1d",
+                   "inventory":  "45ea7b041de0c8de2763826652ca2c6d6355f4c2e26e979bcf955c4cc78e9343",
+                   "miscellaneous":  "1dd2f567d5ae0372c3bd722d76382c13ec65024a69f8b3a4d3866c6ca635ae04"
+               }
+}
